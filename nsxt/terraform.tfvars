@@ -1,11 +1,11 @@
-nsx_manager = "mgmt-nsxt-vip.tb2678.net"
+nsx_manager = ""
 
 nsx_username = "admin"
 
-nsx_password = "VMware1VMware!"
+nsx_password = ""
 
-vsphere_server = "mgmt-vc.tb2678.net"
+vsphere_server = ""
 
-vsphere_user = "Administrator@vsphere.local"
+vsphere_user = ""
 
-vsphere_password = "VMware123!"
+vsphere_password = ""
